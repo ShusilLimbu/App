@@ -1,0 +1,1 @@
+{"routes":[{"name":null,"pathParams":[],"pageType":{"import":"package:ohms/screens/foods_screen.dart","name":"FoodsScreen","isNullable":false,"isRecordType":false},"className":"FoodsScreen","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/screens/foods_screen.dart","inputHash":0}
